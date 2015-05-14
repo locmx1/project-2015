@@ -1,0 +1,45 @@
+session
+validation: date input, age
+
+taint@fpt.edu.vn
+14 weeks
+
+-doc
+-Sp
+-Slide
+-10 week finish
+-doc : 6 reports
+-week 3 - 10 Coding
+-week 2 overall usecase
+
+-Searching & exchange
+- C2C
+- minh trung gian giu hang giu tien
+- niem phong hang, giu tien, cho` confirm
+-trao doi: mobile
+-deadline trao doi, ky gui
+-trao doi: co lua chon, chua biet
+-check spam ? max gia? 
+-vi tri cua hang
+-dac diem dong ho, kmin + knn
+-staff kiem tra gia trung binh ->> accept -> dung de reject spam
+
+Core flow
+Co nguoi Ban: Submit request > check spam > dem watch den -> mua or ky gui
+Co nguoi mua: chon-> den cua hang confirm, dua tien
+Trao doi: 1- nguoi gui request ma chua co watch
+	  2- chon dong ho -> trao doi voi dong ho co san
+
+baza.vn
+
+-staff check thong so ky thuat
+-1 watch co the co nhieu image
+-tat ca dong ho
+2-4: 2 nhom
+3-5: 2 nhom
+thu 6 12h30: P302
+Top Down
+di tu core flow
+thu 3 : core flow + overall usecase
+Thay review rp1-2 > submit
+	  
