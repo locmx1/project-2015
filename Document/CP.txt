@@ -44,4 +44,8 @@ thu 3 : core flow + overall usecase
 Thay review rp1-2 > submit
 
 http://www.handheld.com.vn/threads/mot-so-kien-thuc-co-ban-ve-dong-ho.81021/
-	  
+
+login xong chuyen ve trang truoc do
+dang nhap le` phai
+tag = 999999
+select2 => version web browser support ?		  
